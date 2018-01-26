@@ -1,0 +1,35 @@
+---
+apikeys:
+  pastebin: '0'
+avatar: 0
+broadcastrank: +
+command: '?'
+joinRooms:
+  bd:
+    allow games: false
+    moderate:
+      anything: false
+      banword: false
+      caps: false
+      groupchats: false
+      room: bd
+      spam: false
+      stretching: false
+      urls: false
+    tourwhitelist: []
+  rp:
+    allow games: false
+    moderate:
+      anything: false
+      banword: false
+      caps: false
+      groupchats: false
+      room: bd
+      spam: false
+      stretching: false
+      urls: false
+    tourwhitelist: []
+joinTours: false
+master: Kami no Lucky
+password: Bokuwakamidesu1!
+user: AnonRadio

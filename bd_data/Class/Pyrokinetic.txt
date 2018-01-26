@@ -1,0 +1,5 @@
+Comet			Twice	2	1d6+3
+Ignition		EoT	-	-
+Afterburn		Twice/EoT	-	-
+Inferno			Once	4	1d8+5
+Kinetic Energy		Once	-	-
