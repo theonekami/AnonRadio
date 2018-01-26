@@ -1,0 +1,4 @@
+Mist			Once	-	-
+Ice Wall		Once	-	-
+Frost Barrier		Once	-	2d8+X
+Absolute Zero		Once	4	1d10+13

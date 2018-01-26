@@ -1,0 +1,28 @@
+Class stats 
+cryokinetic 7 7   
+pyrokinetic 10 10
+guardian 5 5
+skirmisher 8 8 
+bard 6 6
+rifter 9 9
+
+Weapon stats 
+katana 10 9
+rapier 10 9
+gladius 13 0   
+hammer 14 7                         
+axe 17 7
+lance 13 0
+longbow 12 2
+shortbow 10 5
+crossbow 11 7 
+spellbook 0 11
+wand 7 15    
+stave 6 9
+tonfa 12 7
+claws 14 4     
+bostaff 11 5
+orb 7 13
+tarotcards 4 11
+starrod 2 11                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+   
